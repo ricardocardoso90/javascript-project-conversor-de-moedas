@@ -12,3 +12,19 @@ Tecnologias utilizadas: HTML, CSS e JavaScript.
 
 - `Eu uso a extensão Live Server`
 - `Também pode ser executado direto pelo arquivo HTML`
+
+## Projeto: Conversor de Moedas
+
+**Tecnologias utilizadas:**
+
+- [HTML]()
+- [CSS]()
+- [Javascript]()
+
+## Instalação:
+
+- `npm i ou npm install`
+
+## Para rodar:
+
+- `Live Server`
